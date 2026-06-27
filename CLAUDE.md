@@ -1,6 +1,6 @@
-# Epistegrity
+# Advantome
 
-Research project applying unfair advantage framework to genome data.
+Research project applying unfair advantage framework to genome data. Constitution template: epistegrity.
 
 ## Session Start
 

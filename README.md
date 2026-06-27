@@ -1,5 +1,5 @@
-# epistegrity project shell
+# Advantome
 
-This repository currently contains only the project constitution scaffold.
+Applying unfair advantage framework to genome data.
 
-No research artifacts, SNP manifests, genome-derived outputs, or implementation code are part of the active project state.
+Template: [epistegrity](https://github.com/seva/epistegrity)
