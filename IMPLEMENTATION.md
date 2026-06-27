@@ -17,14 +17,16 @@ Research what unfair advantage means before applying it to genome research.
 
 ## Phase 1 — Research Genome Asymmetry Candidates
 
-**Goal:** Find every credible class of genome-derived actionable signal in current literature and online sources. Filter through Phase 0 gates. Select one.
+Research existing genome-derived actionable signal classes from external sources. Evaluate against Phase 0 gates. Select target(s).
 
-- [ ] Produce `docs/phase-1-genome-asymmetries.md`
-  - **Research phase** — search genomic medicine literature, clinical guidelines (CPIC, ACMG), DTC testing market, and FDA/regulatory records for all existing classes of genome signals that claim actionability. For each candidate: note mechanism, evidence quality, population frequency, actionability claim, and gatekeeper dependency.
-  - **Filter phase** — score each candidate against 5 Phase 0 gates. Eliminate any that fail signal integrity, are measurement-redundant, or have negative net benefit. Survivors land on the RAROC 2x2 (Self-actionability x Effect size).
-  - **Selection** — pick exactly one. Reject every other with explicit rationale. State the asymmetry in plain terms: what it is, how knowing it changes outcomes for the bearer, and who the comparable person is who lacks it.
+- [ ] Create `docs/phase-1-genome-asymmetries.md`
+  - Search genomic medicine literature, clinical guidelines (CPIC, ACMG), DTC testing market, and FDA/regulatory records for all existing classes of genome signals that claim actionability
+  - For each candidate: mechanism, evidence quality, population frequency, actionability claim, gatekeeper dependency
+  - Score each against Phase 0 gates (signal integrity, actionability without gatekeeper, measurement redundancy, effect size, net benefit)
+  - Map candidates onto the RAROC 2x2
+  - Select target(s) with rationale. State what the asymmetry is, how knowing it changes outcomes, and who the comparable person without it is.
 
-**Verification:** Artifact exists with cited sources from original research, scored candidates, rejection rationale for each non-selected class, and one selected target.
+**Verification:** Artifact exists with cited sources from original research, scored candidates, and a rationale for the selected target(s).
 
 ---
 
