@@ -17,12 +17,12 @@ Research what unfair advantage means before applying it to genome research.
 
 ## Phase 1 — Map Genome-Derived Asymmetries to Unfair Advantage Framework
 
-Research what actionable signals genome data can credibly produce, filter against Phase 0 criteria, and select one to pursue.
+Research what actionable signals genome data can credibly produce, filter against genome-specific Phase 0 framework, and select one to pursue.
 
 - [x] Create `docs/phase-1-genome-asymmetries.md`
-  - Catalog genome-derived actionable signal classes (polygenic scores, rare variants, pharmacogenomics, carrier status, Mendelian traits, ancestry, epigenetics, microbiome-genome interaction)
-  - For each class: mechanism, evidence quality, exploitability, durability, legibility, privacy cost
-  - Filter against Phase 0 unfair advantage criteria
+  - Catalog genome-derived actionable signal classes
+  - Evaluate each against genome-specific gates: Signal integrity, Non-redundancy, Actionability, Effect size, Net benefit
+  - Map onto genome RAROC 2x2 (Self-actionability x Effect size)
   - Select one asymmetry class with rationale
 
 **Verification:** Research artifact exists with cited sources and a single asymmetry class selected for Phase 2.

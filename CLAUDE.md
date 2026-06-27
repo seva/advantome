@@ -1,6 +1,6 @@
-# Project Shell
+# Epistegrity
 
-This repository currently contains only the project constitution scaffold.
+Research project applying unfair advantage framework to genome data.
 
 ## Session Start
 
@@ -14,5 +14,9 @@ This repository currently contains only the project constitution scaffold.
 
 - No active implementation language or runtime is declared.
 - No project-specific file paths are declared.
-- No research artifacts or generated data are active.
 - No raw personal data should be committed.
+
+## Artifacts
+
+- `docs/phase-0-what-is-unfair-advantage.md` — genome-specific unfair advantage definition
+- `docs/phase-1-genome-asymmetries.md` — catalog and selection of genome asymmetry target
