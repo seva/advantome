@@ -1,0 +1,18 @@
+# Sensitive local inputs
+*.zip
+*.vcf
+*.vcf.gz
+*.bam
+*.cram
+genome_*.txt
+data/raw/
+
+# Generated or local-only working data
+work/
+outputs/
+__pycache__/
+.pytest_cache/
+.venv/
+
+# OS/editor noise
+.DS_Store
