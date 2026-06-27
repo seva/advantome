@@ -19,7 +19,7 @@ Research what unfair advantage means before applying it to genome research.
 
 Research existing genome-derived actionable signal classes from external sources. Evaluate against Phase 0 gates. Select target(s).
 
-- [ ] Create `docs/phase-1-genome-asymmetries.md`
+- [x] Create `docs/phase-1-genome-asymmetries.md`
   - Search genomic medicine literature, clinical guidelines (CPIC, ACMG), DTC testing market, and FDA/regulatory records for all existing classes of genome signals that claim actionability
   - For each candidate: mechanism, evidence quality, population frequency, actionability claim, gatekeeper dependency
   - Score each against Phase 0 gates (signal integrity, actionability without gatekeeper, measurement redundancy, effect size, net benefit)
