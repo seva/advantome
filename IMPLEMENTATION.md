@@ -17,7 +17,7 @@ Research what unfair advantage means before applying it to genome research.
 
 ## Phase 1 — Select Asymmetry Target
 
-**Input:** `docs/phase-0-what-is-unfair-advantage.md` in full (working definition, 5 genome-specific gates, asymmetry source table, RAROC 2x2, ethical boundary).
+**Input:** Phase 0 genome-specific framework (5 gates + RAROC 2x2).
 
 **Output:** `docs/phase-1-genome-asymmetries.md` containing exactly one selected asymmetry class with a clear rationale for why it survives where others don't.
 
